@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.btn {
+    background: blue;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 15px;
+    border: 1px solid;
+    transition: 1s;
+}
+
+.btn:hover {
+    background: rebeccapurple;
+    /* transition: 1s; */
+}
